@@ -1,0 +1,98 @@
+{
+ "date": "Monday 23 November 2026",
+ "lead": "COP31 collapses in Antalya \u00b7 Russia strikes Kyiv region again \u00b7 Anthropic IPO slides 9%",
+ "cards": [
+  {
+   "region": "CLIMATE",
+   "head": "COP31 collapses after 44 hours of overtime",
+   "body": "Nearly 200 countries failed to adopt the Antalya Pact; the EU and others rejected a text that softened language on fossil fuels.",
+   "img": "cop31.png"
+  },
+  {
+   "region": "EUROPE",
+   "head": "Russian drone hits apartment block in Kyiv region",
+   "body": "At least 14 people are missing after a night strike; rescue work continued into the morning under cold rain.",
+   "img": "kyiv.png"
+  },
+  {
+   "region": "ASIA",
+   "head": "Indonesia factory fire search resumes",
+   "body": "Police removed 24 body bags from the burned shell as families waited for news of the missing.",
+   "img": "factory.png"
+  },
+  {
+   "region": "MARKETS",
+   "head": "Anthropic falls 9% after record IPO",
+   "body": "The listing failed to calm investor fears about AI spending; chip stocks followed the slide.",
+   "img": "markets.png"
+  },
+  {
+   "region": "ASIA",
+   "head": "South Korea's education minister quits",
+   "body": "The minister resigned over a cheating scandal that has spread from exam halls to university admissions.",
+   "img": "exams.png"
+  },
+  {
+   "region": "EUROPE",
+   "head": "Russia tows cargo ship hit by drones",
+   "body": "Finland's coast guard says a rescue vessel began towing the damaged ship in the Baltic on Sunday.",
+   "img": "baltic.png"
+  },
+  {
+   "region": "POLITICS",
+   "head": "Three Russian missiles crossed into Poland",
+   "body": "Prosecutors confirmed the Friday incursion; Nato members are reviewing the response.",
+   "img": null
+  },
+  {
+   "region": "AFRICA",
+   "head": "Ebola response disrupted by fighting",
+   "body": "WHO chief Tedros called for peace in eastern DR Congo as aid convoys stalled.",
+   "img": null
+  },
+  {
+   "region": "TECH",
+   "head": "US probes alleged Nvidia chip diversion",
+   "body": "The Director of National Intelligence called the firm a perpetual target for smugglers.",
+   "img": null
+  },
+  {
+   "region": "AMERICAS",
+   "head": "US consumers hold up into the holidays",
+   "body": "Retail data suggests spending has stayed resilient despite price pressures.",
+   "img": null
+  },
+  {
+   "region": "ASIA",
+   "head": "Manila: 'big trade deal' still under negotiation",
+   "body": "The palace pushed back on claims that terms with Washington were already agreed.",
+   "img": null
+  },
+  {
+   "region": "OCEANIA",
+   "head": "Assange appears for ADF leaker",
+   "body": "The WikiLeaks founder made a rare public appearance at a court hearing in Australia.",
+   "img": null
+  }
+ ],
+ "briefs": [
+  "Three Russian missiles crossed into Poland on Friday, prosecutors say, as Nato reviews the incident.",
+  "WHO chief Tedros pleads for peace as fighting disrupts the Ebola response in eastern DR Congo.",
+  "Washington is investigating an alleged scheme to divert Nvidia's high-end chips, the DNI says.",
+  "Julian Assange makes a rare public appearance in support of the ADF leaker.",
+  "US consumers are still spending into the holidays despite inflation, retailers report.",
+  "Manila says a 'big trade deal' with Washington is still under negotiation.",
+  "Analysts ask whether climate diplomacy can build on the collapse of COP31.",
+  "Rescue teams in Kyiv region work through a second night of drone alerts.",
+  "Chipmakers extend losses as AI spending doubts spread through the sector.",
+  "Indonesia's police face questions over safety inspections at the factory.",
+  "Seoul's exam scandal widens to private tutoring firms.",
+  "Baltic states press for a joint response to drone incursions.",
+  "COP31's failure leaves the 1.5C stocktake without a formal decision.",
+  "Kyiv's air defences report another long night of drone launches.",
+  "Anthropic's bankers defend the listing price after the first-day slide.",
+  "Baltic insurers raise premiums for cargo routed past Russian ports.",
+  "Indonesia's labour ministry orders inspections at similar plants.",
+  "Seoul announces a review of private exam academies."
+ ]
+}
